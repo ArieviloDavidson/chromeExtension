@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Arievilo Extension",
+    "description": "Extensão de exemplo Arievilo",
+    "author": "Arievilo Dev",
+    "action": {
+        "default_title": "Areivilo Dev",
+        "default_popup": "index.html"
+    }
+}
